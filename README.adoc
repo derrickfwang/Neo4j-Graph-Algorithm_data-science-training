@@ -1,6 +1,9 @@
 = Neo4j Graph Algorithm_Data Science Training
 
 From Mark Needham
+
+20190321
+
 For learning purpose.
 
 This repository contains notebooks for the Neo4j Data Science Training.
