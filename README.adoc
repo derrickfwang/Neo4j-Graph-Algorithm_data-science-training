@@ -1,5 +1,8 @@
 = Neo4j Graph Algorithm_Data Science Training
 
+From Mark Needham
+For learning purpose.
+
 This repository contains notebooks for the Neo4j Data Science Training.
 You can launch these notebooks locally using Jupyter, or online using Google Colab.
 
